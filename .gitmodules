@@ -1,0 +1,6 @@
+[submodule "hackathon-mobile"]
+	path = hackathon-mobile
+	url = git@github.com:studiocodelab/hackathon-mobile
+[submodule "hackathon-ai-backend"]
+	path = hackathon-ai-backend
+	url = git@github.com:studiocodelab/hackathon-ai-backend
